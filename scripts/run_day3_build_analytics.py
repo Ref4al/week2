@@ -66,4 +66,4 @@ suffixes=("", "_user"),
 # Optional: summary.to_csv(ROOT/"reports"/"revenue_by_country.csv", index=False)
 
 if __name__ == "__main__":
- main()
+  main()
